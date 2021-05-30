@@ -8,4 +8,5 @@ Sources: [Udemy Course](https://www.udemy.com/course/data-science-and-machine-le
 2. Open the Anaconda prompt
 3. Pydotplus: `conda install pydotplus`
 4. Tensorflow: `pip install tensorflow`
-5.
+
+## [Pandas Review](1-PandasIntro/pandas.md)
