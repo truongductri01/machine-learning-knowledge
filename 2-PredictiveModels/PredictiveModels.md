@@ -44,3 +44,5 @@ Regression affected by several features (variables)
 - Multivariate regression: predict more than one things of the time using multiple features
 - Still uses least squares
 - Still measure fit with r-squared
+
+### Back to [README](../README.md)

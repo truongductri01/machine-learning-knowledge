@@ -9,4 +9,8 @@ Sources: [Udemy Course](https://www.udemy.com/course/data-science-and-machine-le
 3. Pydotplus: `conda install pydotplus`
 4. Tensorflow: `pip install tensorflow`
 
-## [Pandas Review](1-PandasIntro/pandas.md)
+# Table of contents
+
+### 1. [Pandas Review](1-PandasIntro/pandas.md)
+
+### 2. [Predictive Models](2-PredictiveModels/PredictiveModels.md)
